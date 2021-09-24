@@ -51,11 +51,11 @@ Check out these repositories and explore editor code others have written. It's a
 - [Core Editor Slack Channel](https://wordpress.slack.com/messages/core-editor) (requires registration)
 
 # Criteria for Listing Resources
-- Contains mostly editor related development (or linkable category).
+- Blog contains mostly editor related development (or linkable category).
 - Be updated fairly regularly.
 - Posts are dated.
 - _Others_?
 
 # Disclaimer
 
-I literally just created this repository and no doubt have missed off some awesome people/resources. I apologise in advance if I've missed anyone during this first pass. But that's the whole idea of sharing this list so we can all contribute and make it better.
+I literally just created this repository and no doubt have missed off some awesome people/resources. I apologise in advance if I've missed anyone during this first pass. But, the idea is that this is an ever growing/changing resource. One which we can all contribute and make it better.

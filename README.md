@@ -16,7 +16,7 @@ This is a new resource and so isn't hugely comprehensive (yet), but it already c
 
 Listed alphabetically.
 
-- [Riad Benguella](https://riad.blog/) (not many recent posts)
+- [Riad Benguella](https://riad.blog/){:target="_blank"} (not many recent posts)
 - [Fabian Kägy](https://fabian-kaegy.com/)
 - [Marcus Kazmierczak](https://mkaz.blog/)
 - [Carolina Nymark (FSE)](https://fullsiteediting.com/)

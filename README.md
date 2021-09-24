@@ -45,6 +45,7 @@ Check out these repositories and explore editor code others have written. It's a
 - [Gutenberg Codebase](https://github.com/WordPress/gutenberg)
 - [Atomic Blocks](https://github.com/studiopress/atomic-blocks)
 - [EditorsKit](https://github.com/extendify/block-options)
+- [CoBlocks](https://github.com/godaddy-wordpress/coblocks)
 
 # General Resources
 

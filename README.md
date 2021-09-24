@@ -19,7 +19,7 @@ Listed alphabetically.
 - [Riad Benguella](https://riad.blog/) (not many recent posts)
 - [Fabian Kägy](https://fabian-kaegy.com/)
 - [Marcus Kazmierczak](https://mkaz.blog/)
-- [Carolina Nymark (FSE)](https://fullsiteediting.com/)
+- [Carolina Nymark](https://fullsiteediting.com/) (FSE)
 - [Rich Tabor](https://richtabor.com/)
 - [Ryan Welcher](https://ryanwelcher.com/)
 - [Grzegorz Ziółkowski](https://gziolo.pl/)

@@ -32,6 +32,8 @@ Listed alphabetically.
 
 ## YouTube Channels
 
+- [Anne McCarthy](https://www.youtube.com/c/AnneMcCarthy/videos)
+ 
 ## Twitch Channels
 
 - [Ryan Welcher](https://www.twitch.tv/ryanwelchercodes)

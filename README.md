@@ -41,6 +41,8 @@ Listed alphabetically.
 Check out these repositories and explore editor code others have written. It's a great way to learn!
 
 - [Gutenberg Codebase](https://github.com/WordPress/gutenberg)
+- [Atomic Blocks](https://github.com/studiopress/atomic-blocks)
+- [EditorsKit](https://github.com/extendify/block-options)
 
 # General Resources
 

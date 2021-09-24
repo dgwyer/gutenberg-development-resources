@@ -30,6 +30,8 @@ Listed alphabetically.
 - [CSS-Tricks](https://css-tricks.com/tag/wordpress-blocks/) (blocks)
 - [CSS-Tricks](https://css-tricks.com/tag/gutenberg/) (Gutenberg)
 
+It would be great if CSS-Tricks taagged all block blog posts under the 'Gutenberg' tag too so we only had to use one link. :)
+
 # Gutenberg Development Videos
 
 ## YouTube Channels

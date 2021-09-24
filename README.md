@@ -27,6 +27,8 @@ Listed alphabetically.
 ## Companies
 
 - [WebDevStudios](https://webdevstudios.com/tags/gutenberg/)
+- [CSS-Tricks](https://css-tricks.com/tag/wordpress-blocks/) (blocks)
+- [CSS-Tricks](https://css-tricks.com/tag/gutenberg/) (Gutenberg)
 
 # Gutenberg Development Videos
 

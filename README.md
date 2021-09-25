@@ -26,9 +26,10 @@ Listed alphabetically.
 
 ## Companies
 
-- [WebDevStudios](https://webdevstudios.com/tags/gutenberg/)
 - [CSS-Tricks](https://css-tricks.com/tag/wordpress-blocks/) (blocks)
 - [CSS-Tricks](https://css-tricks.com/tag/gutenberg/) (Gutenberg)
+- [WebDevStudios](https://webdevstudios.com/tags/gutenberg/)
+- [Wholesome Code](https://wholesomecode.ltd/) (not many recent posts)
 
 It would be great if CSS-Tricks tagged all `WordPress Blocks` posts under the `Gutenberg` tag too so we only had to use one link. :)
 

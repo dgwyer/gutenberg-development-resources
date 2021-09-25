@@ -57,6 +57,7 @@ Check out these repositories and explore editor code others have written. It's a
 - [Create Your First Block](https://developer.wordpress.org/block-editor/handbook/tutorials/create-block/) (tutorial)
 - [Gutenberg Handbook](https://developer.wordpress.org/block-editor/)
 - [Core Editor Slack Channel](https://wordpress.slack.com/messages/core-editor) (requires registration)
+- [Make WordPress Core](#block-editor, #core-editor, #gutenberg, #gutenberg-new)
 
 # Criteria for Listing Resources
 - Blog contains mostly editor related development (or linkable category).

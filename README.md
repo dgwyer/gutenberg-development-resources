@@ -23,6 +23,8 @@ Listed alphabetically.
 - [Rich Tabor](https://richtabor.com/)
 - [Ryan Welcher](https://ryanwelcher.com/)
 - [Grzegorz Ziółkowski](https://gziolo.pl/)
+- [Darren Ethier](https://unfoldingneurons.com/) (no recent posts b
+No recent posts
 
 ## Companies
 

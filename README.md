@@ -17,13 +17,13 @@ This is a new resource and so isn't hugely comprehensive (yet), but it already c
 Listed alphabetically.
 
 - [Riad Benguella](https://riad.blog/) (not many recent posts)
+- [Darren Ethier](https://unfoldingneurons.com/) (no recent posts but some fantastic content on the block editor data store)
 - [Fabian Kägy](https://fabian-kaegy.com/)
 - [Marcus Kazmierczak](https://mkaz.blog/)
 - [Carolina Nymark](https://fullsiteediting.com/) (FSE)
 - [Rich Tabor](https://richtabor.com/)
 - [Ryan Welcher](https://ryanwelcher.com/)
 - [Grzegorz Ziółkowski](https://gziolo.pl/)
-- [Darren Ethier](https://unfoldingneurons.com/) (no recent posts but some fantastic content on the block editor data store)
 
 ## Companies
 

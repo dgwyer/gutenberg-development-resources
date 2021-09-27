@@ -35,7 +35,7 @@ Listed alphabetically.
 
 It would be great if CSS-Tricks tagged all `WordPress Blocks` posts under the `Gutenberg` tag too so we only had to use one link. :)
 
-# Gutenberg Development Videos
+# Gutenberg Development Videos & Podcasts
 
 ## YouTube Channels
 
@@ -44,7 +44,11 @@ It would be great if CSS-Tricks tagged all `WordPress Blocks` posts under the `G
 ## Twitch Channels
 
 - [Ryan Welcher](https://www.twitch.tv/ryanwelchercodes)
- 
+
+## Podcasts
+
+- [Gutenberg Times](https://gutenbergtimes.com/podcast/)
+
 # Explore the Code
 
 Check out these repositories and explore editor code others have written. It's a great way to learn!

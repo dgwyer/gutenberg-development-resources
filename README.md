@@ -58,6 +58,9 @@ Check out these repositories and explore editor code others have written. It's a
 - [CoBlocks](https://github.com/godaddy-wordpress/coblocks)
 - [EditorsKit](https://github.com/extendify/block-options)
 - [Gutenberg Examples](https://github.com/WordPress/gutenberg-examples)
+- [Kadence Blocks](https://github.com/kadencewp/kadence-blocks)
+- [Stackable](https://github.com/gambitph/Stackable)
+- [Ultimate Addons for Gutenberg](https://github.com/brainstormforce/ultimate-addons-for-gutenberg)
 
 # General Resources
 

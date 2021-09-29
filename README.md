@@ -58,6 +58,8 @@ Check out these repositories and explore editor code others have written. It's a
 - [Atomic Blocks](https://github.com/studiopress/atomic-blocks)
 - [CoBlocks](https://github.com/godaddy-wordpress/coblocks)
 - [EditorsKit](https://github.com/extendify/block-options)
+- [GenerateBlocks](https://github.com/tomusborne/generateblocks)
+- [GeneratePress](https://github.com/tomusborne/generatepress)
 - [Gutenberg Examples](https://github.com/WordPress/gutenberg-examples)
 - [Kadence Blocks](https://github.com/kadencewp/kadence-blocks)
 - [Stackable](https://github.com/gambitph/Stackable)

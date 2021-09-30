@@ -13,6 +13,11 @@ This is a new resource and so isn't hugely comprehensive (yet), but it already c
 ## Table of Contents
 
 [Gutenberg Development Blogs](https://github.com/dgwyer/gutenberg-development-resources#gutenberg-development-blogs)
+[Gutenberg Development Videos & Podcasts](https://github.com/dgwyer/gutenberg-development-resources#gutenberg-development-videos--podcasts)
+[Explore the Code](https://github.com/dgwyer/gutenberg-development-resources#explore-the-code)
+[General Resources](https://github.com/dgwyer/gutenberg-development-resources#general-resources)
+[Criteria for Listing Resources](https://github.com/dgwyer/gutenberg-development-resources#criteria-for-listing-resources)
+[Disclaimer](https://github.com/dgwyer/gutenberg-development-resources#disclaimer)
 
 # Gutenberg Development Blogs
 

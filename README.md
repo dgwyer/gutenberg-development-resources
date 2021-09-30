@@ -1,8 +1,12 @@
 # Table of Contents
 - [Gutenberg & Block Development Resources](https://github.com/dgwyer/gutenberg-development-resources#gutenberg--block-development-resources)
-  - [One](#) 
 - [Gutenberg Development Blogs](https://github.com/dgwyer/gutenberg-development-resources#gutenberg-development-blogs)
+  - [Individuals](https://github.com/dgwyer/gutenberg-development-resources#individuals)
+  - [Companies](https://github.com/dgwyer/gutenberg-development-resources#companies)
 - [Gutenberg Development Videos & Podcasts](https://github.com/dgwyer/gutenberg-development-resources#gutenberg-development-videos--podcasts)
+  - [YouTube Channels](https://github.com/dgwyer/gutenberg-development-resources#youtube-channels)
+  - [Twitch Channels](https://github.com/dgwyer/gutenberg-development-resources#twitch-channels)
+  - [Podcasts](https://github.com/dgwyer/gutenberg-development-resources#podcasts)
 - [Explore the Code](https://github.com/dgwyer/gutenberg-development-resources#explore-the-code)
 - [General Resources](https://github.com/dgwyer/gutenberg-development-resources#general-resources)
 - [Criteria for Listing Resources](https://github.com/dgwyer/gutenberg-development-resources#criteria-for-listing-resources)

@@ -10,6 +10,10 @@ This is a new resource and so isn't hugely comprehensive (yet), but it already c
 
 **If you have a suggestion then please take a moment to open up a new [pull request](https://github.com/dgwyer/gutenberg-development-resources/pulls), or [GitHub issue](https://github.com/dgwyer/gutenberg-development-resources/issues). Let's grow this list into a valuable resource!**
 
+## Table of Contents
+
+[Gutenberg Development Blogs](https://github.com/dgwyer/gutenberg-development-resources#gutenberg-development-blogs)
+
 # Gutenberg Development Blogs
 
 ## Individuals

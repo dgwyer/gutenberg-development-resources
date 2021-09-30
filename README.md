@@ -69,7 +69,7 @@ It would be great if CSS-Tricks tagged all `WordPress Blocks` posts under the `G
 Check out these repositories and explore editor code others have written. It's a great way to learn!
 
 - [Gutenberg Codebase](https://github.com/WordPress/gutenberg)
-- [Gutenberg StoryBook](https://wordpress.github.io/gutenberg/?path=/story/docs-introduction--page) (view and interact with Gutenberg components)
+- [Gutenberg Storybook](https://wordpress.github.io/gutenberg/?path=/story/docs-introduction--page) (view and interact with Gutenberg components)
 - [Atomic Blocks](https://github.com/studiopress/atomic-blocks)
 - [CoBlocks](https://github.com/godaddy-wordpress/coblocks)
 - [EditorsKit](https://github.com/extendify/block-options)

@@ -79,6 +79,7 @@ Check out these repositories and explore editor code others have written. It's a
 - [Kadence Blocks](https://github.com/kadencewp/kadence-blocks)
 - [Stackable](https://github.com/gambitph/Stackable)
 - [Ultimate Addons for Gutenberg](https://github.com/brainstormforce/ultimate-addons-for-gutenberg)
+- [WordPress Gutenberg](https://wp-gb.com/) (fantastic resource for browsing block components)
 
 # General Resources
 

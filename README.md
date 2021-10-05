@@ -87,6 +87,7 @@ Check out these repositories and explore editor code others have written. It's a
 - [Gutenberg Handbook](https://developer.wordpress.org/block-editor/)
 - [Core Editor Slack Channel](https://wordpress.slack.com/messages/core-editor) (requires registration)
 - [Make WordPress Core](https://make.wordpress.org/core/) (some great nuggets to discover here)
+- [Keeping up with Gutenberg](https://make.wordpress.org/core/handbook/references/keeping-up-with-gutenberg-index/)
 
 # Criteria for Listing Resources
 - Blog contains mostly editor related development (or linkable category).

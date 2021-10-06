@@ -5,7 +5,7 @@
   - [Companies](https://github.com/dgwyer/gutenberg-development-resources#companies)
 - [Gutenberg Development Videos & Podcasts](https://github.com/dgwyer/gutenberg-development-resources#gutenberg-development-videos--podcasts)
   - [YouTube Channels](https://github.com/dgwyer/gutenberg-development-resources#youtube-channels)
-  - [Learn WordPress](https://wordpress.tv/2021/03/18/greg-ziolkowski-block-development-with-scaffolding/)
+  - [Learn WordPress](https://github.com/dgwyer/gutenberg-development-resources/blob/main/README.md#learn-wordpress)
   - [Twitch Channels](https://github.com/dgwyer/gutenberg-development-resources#twitch-channels)
   - [Podcasts](https://github.com/dgwyer/gutenberg-development-resources#podcasts)
 - [Explore the Code](https://github.com/dgwyer/gutenberg-development-resources#explore-the-code)

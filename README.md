@@ -33,6 +33,7 @@ Listed alphabetically.
 
 - [Riad Benguella](https://riad.blog/) (not many recent posts)
 - [Darren Ethier](https://unfoldingneurons.com/) (no recent posts but some fantastic content on the block editor data store)
+- [David Gwyer](https://innerblocks.com/)
 - [Fabian Kägy](https://fabian-kaegy.com/)
 - [Marcus Kazmierczak](https://mkaz.blog/)
 - [Carolina Nymark](https://fullsiteediting.com/) (FSE)

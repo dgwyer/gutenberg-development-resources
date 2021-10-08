@@ -32,8 +32,8 @@ This is a new resource and so isn't hugely comprehensive (yet), but it already c
 Listed alphabetically.
 
 - [Riad Benguella](https://riad.blog/) (not many recent posts)
-- [Darren Ethier](https://unfoldingneurons.com/) (no recent posts but some fantastic content on the block editor data store)
-  - [Overview of the @wordpress/data API](https://unfoldingneurons.com/series/practical-overview-of-wp-data)
+- [Darren Ethier](https://unfoldingneurons.com/) (no recent posts)
+  - [Overview of the @wordpress/data API](https://unfoldingneurons.com/series/practical-overview-of-wp-data) (this series is well worth checking out)
 - [David Gwyer](https://innerblocks.com/)
 - [Fabian Kägy](https://fabian-kaegy.com/)
 - [Marcus Kazmierczak](https://mkaz.blog/)

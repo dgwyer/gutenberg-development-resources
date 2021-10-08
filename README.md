@@ -59,6 +59,7 @@ It would be great if CSS-Tricks tagged all `WordPress Blocks` posts under the `G
 - [Anne McCarthy](https://www.youtube.com/c/AnneMcCarthy/videos)
 - [FSE Hallway Hangouts](https://www.youtube.com/channel/UCkPsxZ_WQFaACunULLiT85g)
 - [Gutenberg Times](https://www.youtube.com/c/GutenbergTimes/videos)
+- [Ryan Welcher](https://www.youtube.com/channel/UC_kRIqFHtN8ccB_mTmHyGDg/videos)
 
 ## Learn WordPress
 - [Developing for the Block Editor](https://learn.wordpress.org/workshops/developing-for-block-editor/)

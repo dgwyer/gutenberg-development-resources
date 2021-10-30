@@ -101,7 +101,7 @@ Check out these repositories and explore editor code others have written. It's a
 # FSE Resources
 
 - [Full Site Editing](https://fullsiteediting.com/) (excellent FSE guide)
-- [Twenty Twenty-Two](https://github.com/WordPress/twentytwentytwo) (new default theme to be launched along with WP 5.9)
+- [Twenty Twenty-Two](https://github.com/WordPress/twentytwentytwo) (new default theme launching with WP 5.9)
 
 # Criteria for Listing Resources
 - Blog contains mostly editor related development (or linkable category).

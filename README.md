@@ -10,6 +10,7 @@
   - [Podcasts](https://github.com/dgwyer/gutenberg-development-resources#podcasts)
 - [Explore the Code](https://github.com/dgwyer/gutenberg-development-resources#explore-the-code)
 - [General Resources](https://github.com/dgwyer/gutenberg-development-resources#general-resources)
+- [Full Site Editing Resources](https://github.com/dgwyer/gutenberg-development-resources#fse-resources)
 - [Criteria for Listing Resources](https://github.com/dgwyer/gutenberg-development-resources#criteria-for-listing-resources)
 - [Disclaimer](https://github.com/dgwyer/gutenberg-development-resources#disclaimer)
 
@@ -96,6 +97,10 @@ Check out these repositories and explore editor code others have written. It's a
 - [Core Editor Slack Channel](https://wordpress.slack.com/messages/core-editor) (requires registration)
 - [Make WordPress Core](https://make.wordpress.org/core/) (some great nuggets to discover here)
 - [Keeping up with Gutenberg](https://make.wordpress.org/core/handbook/references/keeping-up-with-gutenberg-index/)
+
+# FSE Resources
+
+- [Full Site Editing](https://fullsiteediting.com/) (excellent FSE guide)
 
 # Criteria for Listing Resources
 - Blog contains mostly editor related development (or linkable category).

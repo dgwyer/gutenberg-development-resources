@@ -17,7 +17,7 @@
 
 **Please star this repo, and help spread the word!**
 
-Are you looking to level-up your block development skills? Don't know where to start? You're in the right place!
+Are you looking to level-up your block development or block theme skills? Don't know where to start? You're in the right place!
 
 Below is a list of up-to-date curated resources to help with all things related to editor development. This includes blocks, editor plugins, block-based themes and so on.
 

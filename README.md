@@ -104,6 +104,7 @@ Check out these repositories and explore editor code others have written. It's a
 - [Twenty Twenty-Two](https://github.com/WordPress/twentytwentytwo) (new default theme launching with WP 5.9)
 - [Gutenberg - FSE GitHub Issues](https://github.com/WordPress/gutenberg/labels/%5BFeature%5D%20Full%20Site%20Editing)
 - [Core Editor Meeting Notes](https://make.wordpress.org/core/tag/core-editor/) (Notes based on Slack meetings)
+- [Core Editor Improvements](https://make.wordpress.org/core/tag/core-editor-improvement/) (highlights various new editor features, & improvements)
 - [Block Theme Meeting Notes](https://make.wordpress.org/themes/)
 
 # Criteria for Listing Resources
